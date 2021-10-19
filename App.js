@@ -95,7 +95,7 @@ export default ()=> {
   //state TextInput
   const [ digitar, setDigitar ] = useState("");
   
-  //State que vai ter o valor da gorgeta
+  //State que vai ter o valor da gorjeta
   const [ valorGojeta, setValorGojeta ] = useState(0);
 
   //State da porcentagem
